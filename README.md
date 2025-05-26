@@ -1,3 +1,9 @@
+# Replication experiment of Chan et-al
+
+You can find the the replication with modifcations in the directory replication+warning. 
+
+Original README content:
+
 # Conversational AI Powered by Large Language Models Amplifies Human False Memories
 Samantha Chan* (MIT Media Lab), Pat Pataranutaporn* (MIT Media Lab), Aditya Suri* (MIT Media Lab), Wazeer Zulfikar (MIT Media Lab), Pattie Maes (MIT Media Lab), and Elizabeth Loftus (University of California, Irvine)
 
